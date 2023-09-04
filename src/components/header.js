@@ -25,11 +25,11 @@ const header = () => {
                     <img src={logo1}  alt='github' className=' h-4 w-4 fill-white'/>
                     </a>
 
-                    <a href='https://linkedin.com/mmumar101/'>
+                    <a href='https://www.linkedin.com/in/mmumar101/'>
                     <img src={logo2} alt='secondIcon' className='h-4 w-4 fill-white'/>
                     </a>
 
-                    <a href='https://linkedin.com/mmumar101/'>
+                    <a href='https://www.linkedin.com/in/mmumar101/'>
                     <img src={logo3} alt='linkedin' className=' h-4 w-4 fill-white'/>
                     </a>
 

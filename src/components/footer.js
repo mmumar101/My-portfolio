@@ -51,11 +51,11 @@ const footer = () => {
                     <img src={logo4} alt='github'  className='h-4 w-4 fill-white'/>
                 </a>
                 
-                <a href='https://linkedin.com/mmumar101/'>
+                <a href='https://www.linkedin.com/in/mmumar101/'>
                     <img src={logo3} alt='icon' className='h-4 w-4 fill-white'/>
                 </a>
 
-                <a href='https://linkedin.com/mmumar101/'>
+                <a href='https://www.linkedin.com/in/mmumar101/'>
                     <img src={logo1} alt='linkedin' className='h-4 w-4 fill-white'/>
                 </a>
 

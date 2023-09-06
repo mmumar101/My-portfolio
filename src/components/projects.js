@@ -1,6 +1,6 @@
 import React from 'react'
 import logo1 from '../images/clock.png'
-import logo2 from '../images/Fylo.png'
+import logo2 from '../images/fylo.png'
 import logo3 from '../images/game.png'
 import logo4 from '../images/timer.png'
 
@@ -12,11 +12,11 @@ const projects = () => {
               <p className='border-b-2 border-[#4ee180] uppercase text-sm tracking-[1px]'>Contact me</p>
         </div>
 
-        <div className='grid md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 '>
               {/* ANALOG CLOCK */}
               <div className='mt-4 pr-4'>
                   <div className='mb-4'>
-                    <img src={logo1} alt="clock" className='h-{200} w-{200}'/>
+                    <img src={logo1} alt="clock" className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={400} height={400]'></iframe> */}
                   </div>
                   <div className='text-[22px] font-bold'>ANALOG CLOCK</div>
@@ -36,7 +36,7 @@ const projects = () => {
                {/*FYLO LANDING PAGE  */}
               <div className='mt-4'>
                   <div className='mb-4'>
-                    <img src={logo2} alt='Fylo' className='h-{200} w-{200}'/>
+                    <img src={logo2} alt='Fylo' className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={500} height={500]'></iframe> */}
                   </div>
                   <div className='text-[22px] font-bold'>FYLO LANDING PAGE</div>
@@ -57,7 +57,7 @@ const projects = () => {
               {/* WHAKE A MOLE GAME */}
               <div className='mt-4 pr-4'>
                   <div className='mb-4'>
-                    <img src={logo3} alt='game' className='h-{200} w-{200}'/>
+                    <img src={logo3} alt='game' className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={500} height={500]'></iframe> */}
                   </div>
                   <div className='text-[22px] font-bold'>WHAKE A MOLE GAME</div>
@@ -77,7 +77,7 @@ const projects = () => {
               {/* COUNT DOWN TIMER */}
               <div className='mt-4'>
                   <div className='mb-4'>
-                    <img src={logo4} alt='timer' className='h-{200} w-{200}'/>
+                    <img src={logo4} alt='timer' className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={500} height={500]'></iframe> */}
                   </div>
                   <div className='text-[22px] font-bold'>COUNT DOWN TIMER</div>

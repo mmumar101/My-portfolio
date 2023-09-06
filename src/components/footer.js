@@ -3,13 +3,14 @@ import logo1 from '../images/linkedin.png';
 import logo2 from '../images/twitter.png';
 import logo3 from '../images/simple-icons.png';
 import logo4 from '../images/github.png';
+import ring3 from '../images/ring1.png';
 // import {FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
 
 
 const footer = () => {
   return (
-    <div className='bg-[#151515] w-full'>
-       <div className='md:w-[75%] lg:w-[70%] mx-auto'> 
+    <div className='bg-[hsl(0,0%,8%)] w-full'>
+       <div className='sm:w-[70%] md:w-[75%] lg:w-[70%] mx-auto'> 
         <div className='mx-2 md:flex lg:flex xl:flex justify-between'>
             <div className='mb-7 text-center md:text-start lg:text-start'>
                  <p className='font-bold text-[36px] pt-5'>Contact</p>
@@ -33,19 +34,22 @@ const footer = () => {
                         <hr/>
                     </div>
                 </div>
+                <img src={ring3} alt="" className='absolute left-0  pt-28'/>
             </div>
 
 
         <div>
             <p className='text-right underline decoration-[#4ee180] mb-10 mr-2 '>SEND MESSEGE</p>
+    
             <hr/>
         </div>
-
-        <div className='md:flex lg:flex md:justify-between lg:justify-between justify-center mx-auto text-center'>
+        
+        <div className='sm:flex sm:justify-between sm:align-middle md:flex lg:flex md:justify-between lg:justify-between justify-center mx-auto text-center'>
             <div className='pt-3'>
                 <p> mohammedumar </p>
             </div>
-
+    
+            
             <div className='flex justify-center pb-6 pt-3 gap-5'>
                 <a href='https://github.com/mmumar101'>
                     <img src={logo4} alt='github'  className='h-4 w-4 fill-white'/>

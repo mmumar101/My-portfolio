@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.8703cb97.css",
-    "main.js": "/My-Portfolio/static/js/main.98a4bcfc.js",
+    "main.css": "/My-Portfolio/static/css/main.efc67822.css",
+    "main.js": "/My-Portfolio/static/js/main.087f9f98.js",
     "static/js/787.128fc6e9.chunk.js": "/My-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/result.png": "/My-Portfolio/static/media/result.7f076151a07289b432bf.png",
-    "static/media/timer.png": "/My-Portfolio/static/media/timer.4931e8875c957fd95119.png",
-    "static/media/Fylo.png": "/My-Portfolio/static/media/Fylo.e02014fd90a14a886e7b.png",
-    "static/media/clock.png": "/My-Portfolio/static/media/clock.68df5262668f592461ab.png",
-    "static/media/game.png": "/My-Portfolio/static/media/game.693c8e1cdeb7bcdf6628.png",
+    "static/media/fylo.png": "/My-Portfolio/static/media/fylo.ca84f739e11728f8aaf8.png",
+    "static/media/clock.png": "/My-Portfolio/static/media/clock.b11f3060bad22c51462f.png",
+    "static/media/timer.png": "/My-Portfolio/static/media/timer.1cb737778ca234e6ed47.png",
+    "static/media/game.png": "/My-Portfolio/static/media/game.fcd83a2dec65d70e1d43.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.8703cb97.css.map": "/My-Portfolio/static/css/main.8703cb97.css.map",
-    "main.98a4bcfc.js.map": "/My-Portfolio/static/js/main.98a4bcfc.js.map",
+    "static/media/ring2.svg": "/My-Portfolio/static/media/ring2.8be2ea0903b2d7aae1e72e36aeefe833.svg",
+    "main.efc67822.css.map": "/My-Portfolio/static/css/main.efc67822.css.map",
+    "main.087f9f98.js.map": "/My-Portfolio/static/js/main.087f9f98.js.map",
     "787.128fc6e9.chunk.js.map": "/My-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8703cb97.css",
-    "static/js/main.98a4bcfc.js"
+    "static/css/main.efc67822.css",
+    "static/js/main.087f9f98.js"
   ]
 }

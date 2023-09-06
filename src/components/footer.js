@@ -34,7 +34,7 @@ const footer = () => {
                         <hr/>
                     </div>
                 </div>
-                <img src={ring3} alt="" className='absolute left-0  pt-28'/>
+                <img src={ring3} alt="" className='absolute left-0 pt-25 md:pt-28 lg:pt-20 '/>
             </div>
 
 
@@ -44,7 +44,7 @@ const footer = () => {
             <hr/>
         </div>
         
-        <div className='sm:flex sm:justify-between sm:align-middle md:flex lg:flex md:justify-between lg:justify-between justify-center mx-auto text-center'>
+        <div className=' sm:flex sm:justify-between sm:align-middle md:flex lg:flex md:justify-between lg:justify-between justify-center mx-auto text-center'>
             <div className='pt-3'>
                 <p> mohammedumar </p>
             </div>

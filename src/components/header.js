@@ -22,7 +22,7 @@ const header = () => {
                       
               <div className='bg-[#151515] lg:w-[30%] md:w-[25%] sm:w-[30%] w-[70%] justify-center mx-auto sm:mr-0 lg:mr-0 md:mr-0 items-center'>
                   <div className='flex lg:justify-end sm:justify-end md:justify-end justify-between gap-4 mx-2 sm:gap-6 md:gap-8 lg:gap-8 pt-4 w-30 '>
-                    <a href='https://github.com/mmumar101'>
+                    <a href='https://www.github.com/mmumar101/'>
                     <img src={logo1}  alt='github' className=' h-4 w-4 fill-white'/>
                     </a>
             
@@ -34,7 +34,7 @@ const header = () => {
                     <img src={logo3} alt='linkedin' className=' h-4 w-4 fill-white'/>
                     </a>
 
-                    <a href='https://twitter.com/mmumarr'>
+                    <a href='https://www.twitter.com/mmumarr/'>
                     <img src={logo4} alt='twitter' className=' h-4 w-4 fill-white'/>
                     </a>
                   </div> 

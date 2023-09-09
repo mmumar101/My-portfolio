@@ -51,7 +51,7 @@ const footer = () => {
     
             
             <div className='flex justify-center pb-6 pt-3 gap-5'>
-                <a href='https://github.com/mmumar101'>
+                <a href='https://www.github.com/mmumar101'>
                     <img src={logo4} alt='github'  className='h-4 w-4 fill-white'/>
                 </a>
                 
@@ -63,7 +63,7 @@ const footer = () => {
                     <img src={logo1} alt='linkedin' className='h-4 w-4 fill-white'/>
                 </a>
 
-                <a href='https://twitter.com/mmumarr'>
+                <a href='https://www.twitter.com/mmumarr'>
                     <img src={logo2} alt='twitter' className='h-4 w-4 fill-white'/>
                 </a>
             </div> 

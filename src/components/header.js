@@ -57,7 +57,11 @@ const header = () => {
                   <div className=''>
                       <p className=' font-bold text-3xl md:text-5xl lg:text-5xl mt-8 mb-8 md:tracking-[7px] lg:tracking-[7px]'>Nice to meet you! <br/>I'm <u className='underline decoration-[#4ee180]'>Mohammed Umar.</u></p>
                       <p className='text-sm'>Based in Nigeria, i'm a front-end developer <br/> passionate about building accessible web apps <br/> that users love.</p>
+
+                      <a href='mailto:mmumar101@gmail.com'>
                       <button className='mt-6 text-[#4ee180] border-b-2 border-[#4ee180] focus:font-bold'>CONTACT ME</button>
+                      </a>
+                      
                  </div>      
              </div>
              <hr className='mt-8 mb-7 '/>            

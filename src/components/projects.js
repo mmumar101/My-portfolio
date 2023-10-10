@@ -1,6 +1,6 @@
 import React from 'react'
 import logo1 from '../images/clock.png'
-import logo2 from '../images/fylo.png'
+import logo2 from '../images/Fylo.png'
 import logo3 from '../images/game.png'
 import logo4 from '../images/timer.png'
 
@@ -9,7 +9,10 @@ const projects = () => {
     <div className='w-[90%] md:w-[75%] lg:w-[70%] mx-auto'>
         <div className='flex justify-between items-center'>
               <p className='font-bold text-[2.2rem]'>Projects</p>
-              <p className='border-b-2 border-[#4ee180] uppercase text-sm tracking-[1px]'>Contact me</p>
+              
+              <a href='mailto:mmumar101@gmail.com'>
+              <button className='border-b-2 border-[#4ee180] uppercase text-sm tracking-[1px]'>Contact me</button>
+              </a>
         </div>
 
         <div className='grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 '>

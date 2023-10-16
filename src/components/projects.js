@@ -9,7 +9,7 @@ const projects = () => {
     <div className='w-[90%] md:w-[75%] lg:w-[70%] mx-auto'>
         <div className='flex justify-between items-center'>
               <p className='font-bold text-[2.2rem]'>Projects</p>
-              
+            
               <a href='mailto:mmumar101@gmail.com'>
               <button className='border-b-2 border-[#4ee180] uppercase text-sm tracking-[1px]'>Contact me</button>
               </a>

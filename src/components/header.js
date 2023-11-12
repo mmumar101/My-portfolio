@@ -41,7 +41,7 @@ const header = () => {
                   
                   <div className=''>  
                   {/* <img src={group1} alt='' className='h-20 w-20' />       */}
-                    <img src={photo} alt='' className=' resize-both lg:w-80 h-80 pt-14 mx-auto'/>
+                    <img src={photo} alt='' className=' resize-both lg:w-70 h-80 mx-auto'/>
                   </div>
               </div>   
                  <div className='flex justify-between'>

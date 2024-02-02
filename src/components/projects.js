@@ -20,7 +20,7 @@ const projects = () => {
 
         <div className='grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 '>
                   {/*DICTIONARY APP */}
-                  <div className='mt-4'>
+               <div className='mt-4'>
                   <div className='mb-4'>
                     <img src={logo6} alt='Dictionary' className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={500} height={500]'></iframe> */}
@@ -42,7 +42,7 @@ const projects = () => {
 
 
                 {/*TODO APP */}
-                    <div className='mt-4'>
+                <div className='mt-4'>
                   <div className='mb-4'>
                     <img src={logo5} alt='Todo' className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={500} height={500]'></iframe> */}

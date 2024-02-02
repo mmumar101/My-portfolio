@@ -1,5 +1,5 @@
 import React from 'react'
-import photo from '../images/result.png'
+import photo from '../images/result1.png'
 // import {FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
 import logo1 from '../images/github.png';
 import logo2 from '../images/simple-icons.png';
@@ -41,7 +41,7 @@ const header = () => {
                   
                   <div className=''>  
                   {/* <img src={group1} alt='' className='h-20 w-20' />       */}
-                    <img src={photo} alt='' className=' resize-both lg:w-70 h-80 mx-auto'/>
+                    <img src={photo} alt='' className=' resize-both lg:w-70 h-70 mx-auto'/>
                   </div>
               </div>   
                  <div className='flex justify-between'>

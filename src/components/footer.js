@@ -81,7 +81,7 @@ const footer = () => {
 
         <div>
             <p className='text-right  mb-10 mr-2 '>
-                <button type='submit' className='underline decoration-[#4ee180]'>SEND MESSEGE</button>
+                <button type='submit' className='border-b-2 border-[#4ee180] '>SEND MESSEGE</button>
             </p>
     
             <hr/>

@@ -1,6 +1,6 @@
 import React from 'react'
 import logo1 from '../images/clock.png'
-import logo2 from '../images/Fylo.png'
+import logo2 from '../images/countries.png'
 import logo3 from '../images/game.png'
 import logo4 from '../images/timer.png'
 import logo5 from '../images/todo.png'
@@ -82,13 +82,13 @@ const projects = () => {
                   </div>
               </div>
 
-               {/*FYLO LANDING PAGE  */}
+               {/*COUNTRIES API  */}
               <div className='mt-4'>
                   <div className='mb-4'>
-                    <img src={logo2} alt='Fylo' className='h-25 w-25'/>
+                    <img src={logo2} alt='countries' className='h-25 w-25'/>
                     {/* <iframe title='Analog' src='https://mmumar101.github.io/My-Fylo-Landing-Page/ width={500} height={500]'></iframe> */}
                   </div>
-                  <div className='text-[22px] font-bold'>FYLO LANDING PAGE</div>
+                  <div className='text-[22px] font-bold'>COUNTRIES API</div>
 
                   <div className='flex gap-5 pt-2'>
                     <p>HTML</p>
@@ -98,8 +98,8 @@ const projects = () => {
                   </div>
 
                   <div className='flex font-500 gap-7 py-6'>
-                    <a href='https://mmumar101.github.io/My-Fylo-Landing-Page/' className='border-b-2 border-[#4ee180]'>VIEW PROJECT</a>
-                    <a href='https://github.com/mmumar101/My-Fylo-Landing-Page' className='border-b-2 border-[#4ee180]'>VIEW CODE</a>
+                    <a href='https://mycountries-api.netlify.app/' className='border-b-2 border-[#4ee180]'>VIEW PROJECT</a>
+                    <a href='https://github.com/mmumar101/Countries-API' className='border-b-2 border-[#4ee180]'>VIEW CODE</a>
                   </div>
               </div>
 

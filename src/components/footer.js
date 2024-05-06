@@ -88,7 +88,7 @@ const footer = () => {
         </div>
         
         <div className=' sm:flex sm:justify-between sm:align-middle md:flex lg:flex md:justify-between lg:justify-between justify-center mx-auto text-center'>
-            <div className='pt-3'>
+            <div className='pt-6 '>
                 <p> mohammedumar </p>
             </div>
     

@@ -45,7 +45,7 @@ const header = () => {
                   </div>
               </div>   
                  <div className='flex justify-between'>
-                    <img src={ring1} alt="" className='absolute top-12 h-24 left-0'/>
+                    <img src={ring1} alt="" className='absolute top-[5rem] h-24 left-0'/>
                     <img src={ring2} alt='' className='sm:absolute md:absolute absolute top-60 h-25 pr-11 right-80 mr-14 '/>    
                  </div>       
         </div>
